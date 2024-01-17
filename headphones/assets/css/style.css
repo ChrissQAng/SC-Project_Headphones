@@ -271,6 +271,7 @@ header img {
 }
 
 .inspiration h2 {
+  padding-top: 6rem;
   font-size: 1.9rem;
   color: var(--color-headline-pink);
   letter-spacing: 0.5rem;
