@@ -1,3 +1,5 @@
+/* ------------------- basics */
+
 @font-face {
   font-family: Work Sans;
   src: url(./assets/fonts/WorkSans-VariableFont_wght.ttf);
@@ -72,6 +74,8 @@ p {
   text-decoration: none;
   color: #2e2e2e;
 }
+
+/* ----------------- nav bars */
 
 nav a {
   color: var(--color-link-pink);
@@ -153,7 +157,7 @@ nav {
   padding-right: 1.9rem;
 }
 
-/* # Site specific styling */
+/* ---------------------- ABOUT*/
 
 .go-beyond {
   color: var(--color-headline-pink);
@@ -185,7 +189,7 @@ header img {
   width: 50%;
 }
 
-/* # Experience page */
+/* ------------------- EXPERIENCE- LOUNGER */
 
 .experience {
   position: absolute;
@@ -211,7 +215,7 @@ header img {
   padding-right: 10%;
 }
 
-/* # Shop page */
+/* # ------------------- SHOP       */
 
 .shop {
   position: absolute;
@@ -256,7 +260,7 @@ header img {
   color: #2e2e2e;
 }
 
-/* # inspiration page */
+/* -------------     INSPIRATION */
 
 .inspiration {
   margin-left: 15vw;
